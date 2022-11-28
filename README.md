@@ -1,7 +1,7 @@
 <h1 align="center">oi 👋, eu sou o Gabriel Temochko</h1>
 <h3 align="center">Analista de Dados Jr.</h3>
 
-- 🔭 Atualmente estou procurando emprego ou projetos freelancer como **Analista de Dados**
+- 🔭 Atualmente estou procurando emprego e projetos freelancer como **Analista de Dados**
 
 - 🌱 Estou aprendendo **SQL**
 
