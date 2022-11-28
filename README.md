@@ -1,4 +1,4 @@
-<h1 align="center">oi 👋, eu sou o Gabriel Temochko</h1>
+<h1 align="center">Oi 👋, eu sou o Gabriel Temochko</h1>
 <h3 align="center">Analista de Dados Jr.</h3>
 
 - 🔭 Atualmente estou procurando emprego e projetos freelancer como **Analista de Dados**
